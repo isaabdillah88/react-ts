@@ -1,2 +1,2 @@
-# react-ts
+# redux-ts
 React + Redux + Typescript
